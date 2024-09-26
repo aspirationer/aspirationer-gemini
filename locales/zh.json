@@ -20,6 +20,7 @@
   "uploadProxyUrl": "文件上传代理链接",
   "uploadProxyUrlPlaceholder": "请输入文件上传代理链接（可选）",
   "followTheSystem": "跟随系统",
+  "github": "GitHub",
   "speechRecognition": "语音识别",
   "speechSynthesis": "语音合成",
   "soundSource": "合成声源",
