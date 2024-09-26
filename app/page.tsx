@@ -11,7 +11,7 @@ import {
   Settings,
   Pause,
   SendHorizontal,
-  GitHub,
+  Github,
 } from 'lucide-react'
 import { useTranslation } from 'react-i18next'
 import ThemeToggle from '@/components/ThemeToggle'
