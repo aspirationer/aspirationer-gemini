@@ -2,7 +2,7 @@ version: '3.9'
 services:
   talk-with-gemini:
     image: xiangfa/talk-with-gemini
-    container_name: Aspiration's super tool
+    container_name: talk-with-gemini
     environment:
       - ACCESS_PASSWORD=$ACCESS_PASSWORD
       - GEMINI_API_KEY=$GEMINI_API_KEY
